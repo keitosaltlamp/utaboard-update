@@ -1,7 +1,0 @@
-{
-  "latest": "1.0.0",
-  "url": "https://github.com/あなた/utaboard-update/releases",
-  "notes": [
-    "初回リリース"
-  ]
-}
