@@ -1,13 +1,12 @@
 {
-  "latest": "2.0.1",
+  "latest": "2.0.2",
   "url": "https://github.com/keitosaltlamp/utaboard-update/releases",
-  "download": "https://github.com/keitosaltlamp/utaboard-update/releases/download/v2.0.1/Uta-Board_2.0.1.zip",
+  "download_url": "https://github.com/keitosaltlamp/utaboard-update/releases/download/v2.0.2/Uta-Board_2.0.2.zip",
   "notes": [
-    "公開ページ機能を追加",
-    "URL再生を追加",
-    "リクエスト機能を追加",
-    "Googleログイン周りを改善",
-    "公開ページの表示と同期を改善",
-    "各種不具合を修正"
+    "公開リクエストが送信できない場合がある問題を修正",
+    "公開曲同期の安定性を改善",
+    "アカウント画面の一部表示を修正",
+    "リリックエディタを近日公開機能として表示",
+    "自動アップデートに失敗する場合は、Boothから最新版を再ダウンロードしてください"
   ]
 }
