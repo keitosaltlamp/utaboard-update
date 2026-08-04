@@ -1,13 +1,11 @@
 {
-  "latest": "2.0.3",
+  "latest": "2.0.4",
   "url": "https://github.com/keitosaltlamp/utaboard-update/releases",
-  "download": "https://github.com/keitosaltlamp/utaboard-update/releases/download/v2.0.3/Uta-Board_2.0.3.zip",
+  "download": "https://github.com/keitosaltlamp/utaboard-update/releases/download/v2.0.4/Uta-Board_2.0.4.zip",
   "notes": [
-    "公開曲リストに表示される一部の曲で、リクエストを送信できない場合がある問題を修正しました。",
-    "公開曲同期時に、うまく反映されないケースがあるため、改善しました。",
-    "データベースの新規追加時に、音源とURLを入力できるようにしました。",
-    "リクエスト時の名前を20字以内に制限しました。また、マウスオーバーで名前を確認できるようにしました。",
-    "Uta-Boardを1時間ほど起動したままにすると、リクエストエラーになる問題を修正しました。",
-    "リリックエディタは現在準備中です。お楽しみに。"
+    "アップデート機能の改善",
+    "次回以降のアップデートで進捗を確認できるGUI Updaterを追加",
+    "安定性の改善と不具合修正"
+   
   ]
 }
